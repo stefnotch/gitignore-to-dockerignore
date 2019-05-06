@@ -1,5 +1,5 @@
 {
-  "name": "gitignore-to-dockerignore",
+  "name": "gitignore-to-dockerignore-web",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "gitignore-to-dockerignore": "^1.0.0",
     "vue": "^2.6.10"
   },
   "devDependencies": {
